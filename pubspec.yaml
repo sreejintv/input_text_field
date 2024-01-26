@@ -1,7 +1,8 @@
 name: input_field
-description: "A new Flutter package project."
+description: "Fully customizable input text field"
 version: 0.0.1
-homepage:
+author: Sreejin thaivalappil<sreejintvs@gmail.com>
+homepage: https://github.com/sreejintv/input_text_field.git
 
 environment:
   sdk: '>=3.2.3 <4.0.0'
